@@ -1,3 +1,5 @@
+### This API is forked from fitrahive/dua-dhikr for use with LilLaah App. Thank you!
+
 <a href="https://s.id/standwithpalestine"><img alt="I stand with Palestine" src="https://cdn.jsdelivr.net/gh/Safouene1/support-palestine-banner@master/banner-project.svg" width="100%" /></a>
 
 # Dua & Dhikr
@@ -7,6 +9,9 @@ A free RESTful API server that provides Duas and Dhikr following the Sunnah of t
 ## بسم الله الرحمن الرحيم
 
 [Bahasa Indonesia](./README.id.md)
+
+## LilLaah API
+This API is hosted on [https://lillaahduaapi.hamdtel.co.uk](https://lillaahduaapi.hamdtel.co.uk) and is the default for the Dua Tab in LilLaah. The same API methods and paths apply.
 
 ## Requirements
 

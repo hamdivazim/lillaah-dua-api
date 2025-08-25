@@ -1,27 +1,9 @@
 {
-  "id": [
-    {
-      "name": "Dzikir Pagi",
-      "slug": "morning-dhikr"
-    },
-    {
-      "name": "Dzikir Petang",
-      "slug": "evening-dhikr"
-    },
-    {
-      "name": "Doa Harian",
-      "slug": "daily-dua"
-    },
-    {
-      "name": "Doa Pilihan",
-      "slug": "selected-dua"
-    },
-    {
-      "name": "Dzikir Setelah Shalat",
-      "slug": "dhikr-after-salah"
-    }
-  ],
   "en": [
+    {
+      "name": "Selected Duas",
+      "slug": "selected-duas"
+    },
     {
       "name": "Morning Dhikr",
       "slug": "morning-dhikr"
@@ -35,12 +17,24 @@
       "slug": "daily-dua"
     },
     {
-      "name": "Selected Dua",
-      "slug": "selected-dua"
+      "name": "Bitesize Duas",
+      "slug": "bitesize-duas"
     },
     {
       "name": "Dhikr After Salah",
       "slug": "dhikr-after-salah"
+    },
+    {
+      "name": "Additional Dhikr",
+      "slug": "additional-dhikr"
+    },
+    {
+      "name": "Travel & Safety",
+      "slug": "travel-and-safety"
+    },
+    {
+      "name": "Before Sleep Dhikr",
+      "slug": "before-sleep-dhikr"
     }
   ]
 }
