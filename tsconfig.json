@@ -1,0 +1,18 @@
+{
+  "compilerOptions": {
+    "strict": true,
+    "module": "commonjs",
+    "outDir": "dist",
+    "target": "es6",
+    "resolveJsonModule": true,
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+    "removeComments": true,
+    "skipLibCheck": true,
+    "noImplicitAny": false,
+    "declaration": true,
+    "typeRoots": ["node_modules/@types", "types"]
+  },
+  "include": ["app/**/*.ts", "bin/app.ts", "start/*.ts", "types/index.ts"],
+  "exclude": ["node_modules"]
+}

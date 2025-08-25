@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "routes": [
+    {
+      "src": "/(.*)",
+      "dest": "bin/app.ts"
+    }
+  ],
+  "builds": [
+    {
+      "src": "bin/app.ts",
+      "use": "@vercel/node"
+    }
+  ],
+  "github": {
+    "silent": true
+  }
+}
